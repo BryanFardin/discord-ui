@@ -1,3 +1,12 @@
+# Ainda em desenvolvimento
+
+##
+
+## Estado Atual do Projeto
+
+![image](https://user-images.githubusercontent.com/100101798/184059470-34a6c1c3-16cf-4bd4-b231-0a91e71a993f.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
